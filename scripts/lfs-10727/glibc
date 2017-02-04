@@ -9,8 +9,8 @@
 
 WGETLIST="http://ftp.gnu.org/gnu/glibc/glibc-2.22.tar.xz
           http://www.iana.org/time-zones/repository/releases/tzdata2014f.tar.gz
-          http://www.linuxfromscratch.org/patches/lfs/development/glibc-2.22-largefile-1.patch
-	  http://www.linuxfromscratch.org/patches/lfs/development/glibc-2.22-fhs-1.patch"
+          http://www.linuxfromscratch.org/patches/downloads/glibc/glibc-2.22-largefile-1.patch
+	  http://www.linuxfromscratch.org/patches/downloads/glibc/glibc-2.22-fhs-1.patch"
 
 MD5SUMLIST="e51e02bf552a0a1fbbdc948fb2f5e83c
             f333b2e8f876221a97871cae0c188aa5
