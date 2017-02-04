@@ -7,7 +7,7 @@
 # Linux From Scratch is released under the MIT license.
 # Copyright (C) 1999-2014, Gerard Beekmans
 
-WGETLIST="http://www.zlib.net/zlib-1.2.8.tar.xz"
+WGETLIST="http://pingshash.ga/zlib-1.2.8.tar.xz"
 MD5SUMLIST="28f1205d8dd2001f26fec1e8c2cebe37"
 
 ###############################################
