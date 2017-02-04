@@ -7,7 +7,7 @@
 # Linux From Scratch is released under the MIT license.
 # Copyright (C) 1999-2014, Gerard Beekmans
 
-WGETLIST="https://www.kernel.org/pub/linux/docs/man-pages/man-pages-4.02.tar.xz"
+WGETLIST="https://www.kernel.org/pub/linux/docs/man-pages/Archive/man-pages-4.02.tar.xz"
 MD5SUMLIST="6c5692af39eb5fe468a8bd1f110b0edd"
 
 ###############################################
